@@ -1,0 +1,24 @@
+{
+  "name": "discordbot2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhattcodes/discord-bot-class-reminder.git"
+  },
+  "keywords": [],
+  "author": "abx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhattcodes/discord-bot-class-reminder/issues"
+  },
+  "homepage": "https://github.com/bhattcodes/discord-bot-class-reminder#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
